@@ -1,0 +1,4 @@
+rootProject.name = 'pikachu'
+include 'pikachu-test'
+include 'pikachu-client'
+
